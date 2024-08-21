@@ -1,6 +1,6 @@
 # Bechtle AG
 
-<img src="https://user-images.githubusercontent.com/9019692/229523232-488a4335-3e82-46fb-a944-9120a35f3764.jpg" width="25%" />
+<img src="https://github.com/Bechtle-AG.png?size=200" />
 
 
 **Germany’s largest IT System House, Bechtle is the go-to partner for future-driven IT architectures.**<br/>
