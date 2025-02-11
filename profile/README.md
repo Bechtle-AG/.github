@@ -8,3 +8,7 @@ Bechtle makes it a priority to be close to our customers, with more than 85 syst
 
 
 Learn more at https://jobs.bechtle.com/ 
+
+## Other Bechtle related organizations @github
+
+- [AV Software Solutions 360°](https://github.com/bechtleav360)
